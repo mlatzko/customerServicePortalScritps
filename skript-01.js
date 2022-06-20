@@ -1,3 +1,5 @@
 function(){
-  return true;
+  var output = true;
+  
+  return output;
 }
